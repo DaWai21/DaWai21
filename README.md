@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaWai21
-- 👀 I’m interested in creating AI models and IOT devices
-- 🌱 I’m currently learning in Python
+- 👀 An Electronic Engineer, well versed in Embedded system and ML application.
+- 🌱 Proficient in Python, C/C++
 
 <!---
 DaWai21/DaWai21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
